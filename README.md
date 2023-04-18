@@ -26,4 +26,4 @@ MITです。
 
 # c
 
-(c) akikawa9616 2023
+(c) 2023 akikawa9616

@@ -20,7 +20,7 @@
 
 [これ中身なんだけど怪しい?](https://github.com/akikawaken/find-file/blob/main/find.bat "怪しそう")
 
-# LICENCE
+# LICENSE
 
 MITです。
 
